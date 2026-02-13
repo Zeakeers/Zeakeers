@@ -19,7 +19,7 @@
 <h3>Tech Stack</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,php,laravel,python,mongodb,mysql,git,github,vscode" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nodejs,express,php,laravel,python,mongodb,mysql,git,github,vscode" alt="tech stack icons" />
 </p>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="anime gif"/>

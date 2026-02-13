@@ -79,7 +79,7 @@ I enjoy building creative projects and continuously learning new technologies.
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Anime Wave"/>
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" alt="Anime Wave"/>
   
   ### ✨ Thanks for visiting! ✨
   

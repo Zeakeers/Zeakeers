@@ -25,7 +25,7 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="anime gif"/>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeakers&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight" height="140" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight" height="140" alt="stats" />
 </p>
 
 </div>

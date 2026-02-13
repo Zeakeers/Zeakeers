@@ -24,7 +24,7 @@
 
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Zeakers&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400"
+      src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400"
       height="140"
       alt="GitHub stats"
     />

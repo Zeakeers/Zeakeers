@@ -22,8 +22,6 @@
     <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nodejs,express,php,laravel,python,mongodb,mysql,git,github,vscode" alt="tech stack icons" />
   </p>
 
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" alt="anime gif" />
-
   <p>
     <img
       src="https://github-readme-stats.vercel.app/api?username=Zeakers&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=tokyonight&cache_seconds=86400"

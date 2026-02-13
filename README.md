@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="140" alt="anime gif" />
+  <img src="https://media1.tenor.com/m/dY5ntOVaksUAAAAC/blue-archive-hikari.gif" width="140" alt="anime gif" />
 
   <h2>Dimas Adi Putra Arifin</h2>
   <p>Web developer based in Indonesia</p>

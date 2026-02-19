@@ -14,7 +14,7 @@
     <a href="https://www.facebook.com/dimasadip.7792">
       <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook" alt="Facebook" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0d1117&label=Profile%20Views" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Zeakeers&style=for-the-badge&color=0d1117&label=Profile%20Views" alt="Profile Views" />
   </p>
 
   <hr />
@@ -32,22 +32,22 @@
 
   <p>
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117"
+      src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117"
       alt="GitHub Stats" />
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117"
       alt="Top Languages" />
   </p>
 
   <p>
     <img height="180"
-      src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"
+      src="https://streak-stats.demolab.com?user=Zeakeers&theme=tokyonight&hide_border=true&background=0D1117"
       alt="GitHub Streak" />
   </p>
 
   <p>
     <img
-      src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+      src="https://github-profile-trophy.vercel.app/?username=Zeakeers&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
       alt="Trophies" />
   </p>
 
@@ -57,7 +57,7 @@
   <h3>Activity Graph</h3>
   <p>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Zeakeers&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"
       alt="Contribution Graph" />
   </p>
 
@@ -68,14 +68,14 @@
 
   <!-- Ganti REPO_1 dan REPO_2 dengan repo terbaik kamu -->
   <p>
-    <a href="https://github.com/YOUR_USERNAME/REPO_1">
+    <a href="https://github.com/Zeakeers/REPO_1">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&hide_border=true&theme=tokyonight&bg_color=0d1117"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=REPO_1&hide_border=true&theme=tokyonight&bg_color=0d1117"
         alt="Repo 1" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME/REPO_2">
+    <a href="https://github.com/Zeakeers/REPO_2">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&hide_border=true&theme=tokyonight&bg_color=0d1117"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=REPO_2&hide_border=true&theme=tokyonight&bg_color=0d1117"
         alt="Repo 2" />
     </a>
   </p>

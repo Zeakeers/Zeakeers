@@ -12,7 +12,11 @@ Web developer based in Indonesia
   <a href="https://www.facebook.com/dimasadip.7792">
     <img src="https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Zeakeers.Zeakeers&style=for-the-badge&color=0d1117&logo=github&logoColor=white" />
+</p>
+
+<!-- Visitor dipisah biar tidak ganggu design -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Zeakeers&style=for-the-badge&color=0d1117&label=Visitors" />
 </p>
 
 </div>
@@ -22,7 +26,7 @@ Web developer based in Indonesia
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nodejs,express,php,laravel,python,mongodb,mysql,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,react,nextjs,nodejs,express,php,laravel,python,mongodb,mysql,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -30,8 +34,8 @@ Web developer based in Indonesia
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zeakeers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">

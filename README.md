@@ -32,17 +32,15 @@
 
   <p>
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117"
-      alt="GitHub Stats" />
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zeakeers&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117"     />
     <img height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117"
-      alt="Top Languages" />
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117" />
+
   </p>
 
   <p>
-    <img height="180"
-      src="https://streak-stats.demolab.com?user=Zeakeers&theme=tokyonight&hide_border=true&background=0D1117"
-      alt="GitHub Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Zeakeers&theme=tokyonight&no-frame=true&row=1&column=7" />
+
   </p>
 
   <p>
@@ -59,25 +57,6 @@
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=Zeakeers&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true"
       alt="Contribution Graph" />
-  </p>
-
-  <hr />
-
-  <!-- Featured Projects -->
-  <h3>Featured Projects</h3>
-
-  <!-- Ganti REPO_1 dan REPO_2 dengan repo terbaik kamu -->
-  <p>
-    <a href="https://github.com/Zeakeers/RatingAgeSystem">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=RatingAgeSystem&hide_border=true&theme=tokyonight&bg_color=0d1117"
-        alt="Rating Umur Pada Video Game" />
-    </a>
-    <a href="https://github.com/Zeakeers/Nguliyah-Akademik">
-      <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=Nguliyah-Akademik&hide_border=true&theme=tokyonight&bg_color=0d1117"
-        alt="Siakad" />
-    </a>
   </p>
 
   <hr />

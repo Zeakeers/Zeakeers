@@ -68,15 +68,15 @@
 
   <!-- Ganti REPO_1 dan REPO_2 dengan repo terbaik kamu -->
   <p>
-    <a href="https://github.com/Zeakeers/REPO_1">
+    <a href="https://github.com/Zeakeers/RatingAgeSystem">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=REPO_1&hide_border=true&theme=tokyonight&bg_color=0d1117"
-        alt="Repo 1" />
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=RatingAgeSystem&hide_border=true&theme=tokyonight&bg_color=0d1117"
+        alt="Rating Umur Pada Video Game" />
     </a>
-    <a href="https://github.com/Zeakeers/REPO_2">
+    <a href="https://github.com/Zeakeers/Nguliyah-Akademik">
       <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=REPO_2&hide_border=true&theme=tokyonight&bg_color=0d1117"
-        alt="Repo 2" />
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Zeakeers&repo=Nguliyah-Akademik&hide_border=true&theme=tokyonight&bg_color=0d1117"
+        alt="Siakad" />
     </a>
   </p>
 

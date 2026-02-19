@@ -33,12 +33,6 @@ Web developer based in Indonesia
 
 ## GitHub Stats
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Zeakeers/Zeakeers/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-</p>
-
-
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=Zeakeers&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>

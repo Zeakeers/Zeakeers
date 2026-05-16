@@ -26,31 +26,17 @@
 
 # About Me
 
+# About Me
+
 <div align="center">
 
-```typescript
-const Dimas = {
-  role: "Full Stack Web Developer",
-  
-  currentFocus: [
-    "Modern Web Applications",
-    "REST API Development",
-    "Backend Architecture"
-  ],
+Passionate full stack web developer from Indonesia focused on building  
+modern, scalable, and user-friendly web applications.
 
-  currentlyLearning: [
-    "TypeScript",
-    "Advanced Backend Patterns",
-    "System Design"
-  ],
+Currently exploring backend architecture, TypeScript ecosystem,  
+and improving full stack development skills through real projects.
 
-  goals2026: [
-    "Build More SaaS Products",
-    "Contribute to Open Source",
-    "Improve System Scalability"
-  ]
-}
-```
+</div>
 
 </div>
 

@@ -64,27 +64,6 @@ const Dimas = {
 
 </div>
 
----
-
-# GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeakeers&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeakeers&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeakeers&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" />
-
-</div>
-
----
 
 # Contribution Snake Animation
 
@@ -94,17 +73,6 @@ const Dimas = {
 
 </div>
 
----
-
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeakeers&bg_color=0D1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" />
-
-</div>
-
----
 
 # Current Activity
 
@@ -124,15 +92,6 @@ const Dimas = {
 
 </div>
 
----
-
-# Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Zeakeers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
 
 ---
 

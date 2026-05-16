@@ -26,8 +26,6 @@
 
 # About Me
 
-# About Me
-
 <div align="center">
 
 Passionate full stack web developer from Indonesia focused on building  
